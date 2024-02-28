@@ -1,4 +1,3 @@
-// calculator.js
 const readlineSync = require('readline-sync');
 
 const calculator = {
