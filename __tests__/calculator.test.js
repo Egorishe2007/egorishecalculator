@@ -1,5 +1,4 @@
-// __tests__/calculator.test.js
-const calculator = require('../calculator');
+const calculator = require('../calculator.js');
 
 test('sum of two numbers', () => {
   calculator.a = 2;
