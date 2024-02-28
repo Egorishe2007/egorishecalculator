@@ -7,7 +7,7 @@ const calculator = {
     this.a = parseFloat(readlineSync.question('Enter the first number: '));
     this.b = parseFloat(readlineSync.question('Enter the second number: '));
   },
-  sum: function() {
+  sum() {
     return this.a + this.b;
   },
   mul: function() {
