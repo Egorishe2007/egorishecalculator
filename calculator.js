@@ -12,7 +12,7 @@ const calculator = {
   },
   mul() {
     return this.a * this.b;
-  }
+  },
 };
 
 module.exports = calculator;
